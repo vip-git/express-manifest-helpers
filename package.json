@@ -1,6 +1,6 @@
 {
   "name": "express-manifest-helpers-audit-fix",
-  "version": "0.6.1",
+  "version": "0.6.3",
   "description": "View helpers to use with an asset manifest",
   "main": "lib/index.js",
   "scripts": {
@@ -29,6 +29,6 @@
     "sinon": "^1.14.1"
   },
   "dependencies": {
-    "lodash": "^4.17.5"
+    "lodash.assign": "^4.2.0"
   }
 }
