@@ -1,6 +1,6 @@
 {
   "name": "express-manifest-helpers-audit-fix",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "View helpers to use with an asset manifest",
   "main": "lib/index.js",
   "scripts": {
